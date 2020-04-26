@@ -20,5 +20,5 @@ Use the information to create a table schema for each of the six CSV files. Reme
 Once the database is created run some queries
 
 - [Further Data Analysis with Pandas](https://github.com/ovinueza/SQL_Employee_Database/blob/master/EmployeeDatabase_Analysis.ipynb)
-Use Python-Pandas for further analysis and visualization of the data.
+Use SQLAlchemy adn Python-Pandas for further analysis and visualization of the data.
 
